@@ -1,0 +1,15 @@
+let score = 2 * 3 + 5 * 2;
+console.log(score); //16
+
+/*
+*operator precendence
+*1. ()
+*2. **
+*3. * / %
+*4. + -
+*/
+
+
+let score1 = 2 * (3 + 5) * 2;
+console.log(score1); //32   
+
